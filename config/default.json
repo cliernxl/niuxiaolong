@@ -1,0 +1,4 @@
+{
+    "env": "development",
+    "storage_key": "user_info_d"
+}
